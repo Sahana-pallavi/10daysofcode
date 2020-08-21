@@ -3,13 +3,6 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
-using namespace std;
-
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
 #include<deque>
 using namespace std;
 
